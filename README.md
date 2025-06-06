@@ -4,7 +4,7 @@
 
 ## A little more about me...  
 
-- 🌱 I am a FullStack Developer
+- 🌱 I am a Full-Stack Developer
 - 👯 I’m looking for something new or creating some project.
 - 🥅 2025 Goals: Build a desktop app that turns my PC into an AI personal assistant — fully offline using Ollama.
 - 🏆 I'm also having a great interest in building PC.
