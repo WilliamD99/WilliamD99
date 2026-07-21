@@ -6,7 +6,6 @@
 
 - 🌱 I am a Full-Stack Developer
 - 👯 I’m looking for something new or creating some project.
-- 🥅 2025 Goals: Build a desktop app that turns my PC into an AI personal assistant — fully offline using Ollama.
 - 🏆 I'm also having a great interest in building PC.
 - 🏸 Fun fact: I love to play Basketball.
 - 📫 How to reach me: dnam310199@gmail.com
